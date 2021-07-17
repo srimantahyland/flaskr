@@ -5,7 +5,6 @@ click==8.0.1
 colorama==0.4.4
 coverage==5.5
 Flask==2.0.1
--e git+https://github.com/srimantahyland/flaskr.git@95fdb8786880bb243698aa6e7d10a910c0c8a165#egg=flaskr
 gunicorn==20.1.0
 iniconfig==1.1.1
 itsdangerous==2.0.1
